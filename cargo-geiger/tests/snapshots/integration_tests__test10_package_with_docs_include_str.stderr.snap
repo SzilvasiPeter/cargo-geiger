@@ -1,0 +1,8 @@
+---
+source: cargo-geiger/tests/integration_tests.rs
+expression: stderr
+---
+`{ARTIFACT_JSON_BLOB}`
+`{ARTIFACT_JSON_BLOB}`
+WARNING: Dependency file was never scanned: {TEMP_DIR}/test10_package_with_docs_include_str/doc.md
+error: Found 1 warnings
